@@ -30,3 +30,5 @@ The activities of store that the system will automate are:
 
 ER-diagram:
 https://github.com/Iskenderun-Technical-University/SE-Project/blob/main/ER-diagram.png?raw=true
+![ER-diagram](https://user-images.githubusercontent.com/47611958/164954967-7be65649-cace-4f06-9958-d2fbcd1bf7cd.png)
+

@@ -38,7 +38,7 @@ Sample:
 ![Art Gallery Project](https://user-images.githubusercontent.com/47611958/164955225-36424709-d618-498a-8f69-2296e3fa1ae8.png)
 
 TASK LIST: 
-- [ ]
+
 1.DataBase Design By: ASSEM ABOUZAITOUN
 2.FrontEnd Design By : ALY OSMAN
 3.FrontEnd Programming By : HUSSIN ELKHATEB

@@ -29,3 +29,4 @@ The activities of store that the system will automate are:
 	7. Entry of Customer details, painting bought. 
 
 ER-diagram:
+https://github.com/Iskenderun-Technical-University/SE-Project/blob/main/ER-diagram.png?raw=true
